@@ -2,95 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93f991fc-2c62-4130-a355-3ee8700104ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/mysql-connector-java-8.0.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aop-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aop-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aop-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aspects-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aspects-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aspects-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-beans-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-beans-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-beans-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-support-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-support-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-support-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-core-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-core-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-core-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-expression-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-expression-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-expression-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-tomcat-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-tomcat-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-tomcat-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jdbc-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jdbc-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jdbc-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jms-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jms-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jms-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-messaging-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-messaging-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-messaging-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-orm-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-orm-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-orm-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-oxm-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-oxm-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-oxm-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-test-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-test-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-test-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-tx-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-tx-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-tx-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-web-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-web-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-web-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-portlet-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-portlet-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-portlet-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-websocket-4.2.6.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-websocket-4.2.6.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-websocket-4.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/izdebski/client/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_logging_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/spring_4_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/spring_4_2_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringjdbcTransactionsWithoutHandlingTransaction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringjdbcTransactionsWithoutHandlingTransaction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/client/ClientTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/dao/BankDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/dao/BankDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/mysql-connector-java-8.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aop-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aop-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aop-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aspects-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aspects-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-aspects-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-beans-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-beans-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-beans-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-support-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-support-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-context-support-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-core-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-core-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-core-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-expression-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-expression-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-expression-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-tomcat-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-tomcat-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-instrument-tomcat-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jdbc-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jdbc-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jdbc-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jms-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jms-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-jms-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-messaging-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-messaging-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-messaging-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-orm-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-orm-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-orm-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-oxm-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-oxm-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-oxm-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-test-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-test-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-test-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-tx-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-tx-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-tx-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-web-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-web-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-web-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-portlet-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-portlet-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-webmvc-portlet-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-websocket-4.2.6.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-websocket-4.2.6.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/spring-4.2.6.libs/spring-websocket-4.2.6.RELEASE.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/daoImpl/BankDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/daoImpl/BankDAOImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/exception/InsufficientAccountBalanceException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/model/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/model/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/rowmapper/AccountRowMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/service/BankService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/service/BankService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/serviceImpl/BankServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/com/izdebski/serviceImpl/BankServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/database.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/spring-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringjdbcTransactionsWithoutHandlingTransaction/spring-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/izdebski/client/ClientTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/izdebski/dao/BankDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/izdebski/dao/BankDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/izdebski/daoImpl/BankDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/izdebski/daoImpl/BankDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/izdebski/exception/InsufficientAccountBalanceException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/izdebski/model/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/izdebski/model/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/izdebski/rowmapper/AccountRowMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/izdebski/service/BankService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/izdebski/service/BankService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/izdebski/serviceImpl/BankServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/izdebski/serviceImpl/BankServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/database.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring-config.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -159,7 +134,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/izdebski/serviceImpl/BankServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
+            <state relative-caret-position="900">
               <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -177,14 +152,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
+            <state relative-caret-position="825">
               <caret line="33" column="95" selection-start-line="33" selection-start-column="95" selection-end-line="33" selection-end-column="95" />
-              <folding>
-                <element signature="e#1860#1878#0" expanded="true" />
-                <element signature="e#1926#1937#0" expanded="true" />
-                <element signature="e#1990#2006#0" expanded="true" />
-                <element signature="e#2059#2075#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -202,7 +171,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/izdebski/daoImpl/BankDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -222,7 +191,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/izdebski/client/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
+            <state relative-caret-position="100">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -290,18 +259,12 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SpringProgrammaticTransactionManagement" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringProgrammaticTransactionManagement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringProgrammaticTransactionManagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringProgrammaticTransactionManagement" type="462c0819:PsiDirectoryNode" />
-              <item name="Db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringProgrammaticTransactionManagement" type="b2602c69:ProjectViewProjectNode" />
@@ -360,15 +323,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547647887124" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547650496437" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Installations/commons-logging-1.2/commons-logging-1.2.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -392,7 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClientTest">
+  <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.izdebski.client.Test" />
       <module name="SpringjdbcTransactionsWithoutHandlingTransaction" />
@@ -421,7 +385,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClientTest" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -438,12 +401,14 @@
       <updated>1547575839350</updated>
       <workItem from="1547575849272" duration="4368000" />
       <workItem from="1547624414955" duration="11563000" />
-      <workItem from="1547640815116" duration="5604000" />
+      <workItem from="1547640815116" duration="7020000" />
+      <workItem from="1547713909020" duration="232000" />
+      <workItem from="1547714336951" duration="1188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21535000" />
+    <option name="totallyTimeSpent" value="24371000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,7 +423,7 @@
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15085287" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -467,14 +432,14 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21343446" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.91549295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Console" order="8" weight="0.30010834" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.032502707" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34236187" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -502,27 +467,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/izdebski/rowmapper/AccountRowMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/izdebski/exception/InsufficientAccountBalanceException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/izdebski/rowmapper/AccountRowMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/izdebski/exception/InsufficientAccountBalanceException.java" />
     <entry file="file://$PROJECT_DIR$/Db/data.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -569,9 +515,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://2df49d95-6c32-4f1b-83c1-dc3b9a08f1ea/schema/mydb/table/icici_bank">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/izdebski/serviceImpl/BankServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
+        <state relative-caret-position="900">
           <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -587,38 +540,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
+        <state relative-caret-position="825">
           <caret line="33" column="95" selection-start-line="33" selection-start-column="95" selection-end-line="33" selection-end-column="95" />
-          <folding>
-            <element signature="e#1860#1878#0" expanded="true" />
-            <element signature="e#1926#1937#0" expanded="true" />
-            <element signature="e#1990#2006#0" expanded="true" />
-            <element signature="e#2059#2075#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/database.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://2df49d95-6c32-4f1b-83c1-dc3b9a08f1ea/schema/mydb/table/icici_bank">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/izdebski/client/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,10 +552,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/izdebski/client/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/izdebski/daoImpl/BankDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
